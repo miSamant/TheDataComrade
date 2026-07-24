@@ -1,6 +1,6 @@
 # TheDataComrade 🇷🇺💻
 
-A growing collection of SQL interview practice questions and study material — built for anyone prepping for data analyst, data scientist, or data engineer interviews.
+A growing collection of SQL interview practice questions and study material — built for anyone prepping for data analyst or data engineer interviews.
 
 Each problem includes a ready-to-run `.sql` file with:
 - **Table creation** statements matching the problem's schema
