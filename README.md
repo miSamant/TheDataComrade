@@ -12,8 +12,8 @@ Each problem includes a ready-to-run `.sql` file with:
 ```
 TheDataComrade/
 └── SQL Interview Practice/
-    ├── second_highest_salary.sql
-    ├── third_transaction.sql
+    ├── second-highest.sql
+    ├── customer-orders.sql
     └── ...
 ```
 
@@ -33,8 +33,8 @@ More folders and topics (window functions, joins, aggregations, subqueries, etc.
 
 | Problem | Topic |
 |---|---|
-| Second Highest Salary | Aggregation, subqueries |
-| Third Transaction of Every User | Window functions (`ROW_NUMBER`) |
+| Second Highest Salary | Window functions (`RANK`) |
+| First and last Transaction of Every User | Window functions (`MIN & MAX`) |
 
 *(This table will be updated as more problems are added.)*
 
