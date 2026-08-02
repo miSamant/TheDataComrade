@@ -1,4 +1,4 @@
-# TheDataComrade 🇷🇺💻
+# TheDataComrade 🇮🇳💻
 
 A growing collection of SQL interview practice questions and study material — built for anyone prepping for data analyst or data engineer interviews.
 
