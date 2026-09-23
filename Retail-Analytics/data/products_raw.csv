@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Headphones,Electronics,76.08,121.97
+2,Headphones v2,Electronics,40.43,72.13
+3,Headphones v3,Electronics,50.15,101.78
+4,Bluetooth Speaker,Electronics,44.8,100.31
+5,Bluetooth Speaker v2,Electronics,9.59,18.8
+6,Bluetooth Speaker v3,Electronics,43.71,71.74
+7,Laptop Stand,Electronics,63.28,144.55
+8,Laptop Stand v2,Electronics,74.89,176.55
+9,Laptop Stand v3,Electronics,102.16,169.69
+10,Webcam,Electronics,63.73,108.18
+11,Webcam v2,Electronics,26.19,63.06
+12,Webcam v3,Electronics,53.96,101.68
+13,USB-C Hub,Electronics,138.18,241.68
+14,USB-C Hub v2,Electronics,127.43,234.6
+15,USB-C Hub v3,Electronics,30.87,65.03
+16,Smartwatch,Electronics,63.52,103.54
+17,Smartwatch v2,Electronics,8.9,16.4
+18,Smartwatch v3,Electronics,72.24,133.07
+19,Air Fryer,Home & Kitchen,107.39,245.83
+20,Air Fryer v2,Home & Kitchen,121.77,237.72
+21,Air Fryer v3,Home & Kitchen,105.0,237.67
+22,Coffee Maker,Home & Kitchen,26.57,59.28
+23,Coffee Maker v2,Home & Kitchen,7.69,18.33
+24,Coffee Maker v3,Home & Kitchen,78.08,173.32
+25,Blender,Home & Kitchen,90.48,207.06
+26,Blender v2,Home & Kitchen,72.95,152.0
+27,Blender v3,Home & Kitchen,110.71,183.96
+28,Cutlery Set,Home & Kitchen,15.67,29.06
+29,Cutlery Set v2,Home & Kitchen,86.96,141.6
+30,Cutlery Set v3,Home & Kitchen,84.17,133.76
+31,Storage Bins,Home & Kitchen,6.32,10.99
+32,Storage Bins v2,Home & Kitchen,89.43,150.19
+33,Storage Bins v3,Home & Kitchen,15.41,35.23
+34,T-Shirt,Apparel,79.19,145.12
+35,T-Shirt v2,Apparel,102.65,241.49
+36,T-Shirt v3,Apparel,19.96,33.56
+37,Hoodie,Apparel,122.23,198.15
+38,Hoodie v2,Apparel,136.9,220.99
+39,Hoodie v3,Apparel,40.54,71.92
+40,Jeans,Apparel,75.89,146.43
+41,Jeans v2,Apparel,24.87,49.67
+42,Jeans v3,Apparel,89.88,157.62
+43,Jacket,Apparel,52.5,105.22
+44,Jacket v2,Apparel,126.38,220.71
+45,Jacket v3,Apparel,10.34,19.93
+46,Sneakers,Apparel,36.0,73.0
+47,Sneakers v2,Apparel,53.71,89.76
+48,Sneakers v3,Apparel,50.84,83.25
+49,Desk Lamp,Office,123.2,215.69
+50,Desk Lamp v2,Office,111.2,243.34
+51,Desk Lamp v3,Office,47.3,80.72
+52,Notebook Set,Office,93.8,195.32
+53,Notebook Set v2,Office,101.63,184.37
+54,Notebook Set v3,Office,15.11,29.61
+55,Ergonomic Chair,Office,114.94,229.05
+56,Ergonomic Chair v2,Office,66.27,125.24
+57,Ergonomic Chair v3,Office,40.78,98.49
+58,Whiteboard,Office,83.09,199.54
+59,Whiteboard v2,Office,90.01,179.72
+60,Whiteboard v3,Office,104.56,196.88
